@@ -42,8 +42,8 @@ dengan tujuan:
 5. Membandingkan tingkat perbaikan pasien berdasarkan kondisi
    penyakit dan gender.
 
-   #### Project Plan
-   Rencana tahapan yang akan dilakukan dalam analisis dataset ini
+#### Project Plan
+Rencana tahapan yang akan dilakukan dalam analisis dataset ini
 meliputi:
 
 1. Memahami struktur dan karakteristik dataset.
